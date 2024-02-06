@@ -21,6 +21,14 @@ main{
     width: 50rem;
     background: rgb(32, 32, 32);
     border-radius: 1rem;
+    margin-right: 5rem;
+}
+.his{
+    height: 80rem;
+    width: 50rem;
+    background: rgb(32, 32, 32);
+    border-radius: 1rem;
+    margin-left: 5rem;
 }
 section{
     height: 4rem;
@@ -97,4 +105,10 @@ header{ /*Div top*/
 }
 .teclas:hover{
     background: rgb(55, 49, 46);
+}
+#conteudo{
+    font-size: 6rem;
+    color: white;
+    height: 100%;
+    overflow-x: auto;
 }
